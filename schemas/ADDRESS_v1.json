@@ -1,0 +1,10 @@
+{
+  "sourceSystem": "SystemB",
+  "layoutKey": "ADDRESS",
+  "version": "1.0",
+  "fields": [
+    { "name": "street",  "start": 0, "length": 25 },
+    { "name": "city",    "start": 25, "length": 15 },
+    { "name": "zipcode", "start": 40, "length": 5 }
+  ]
+}

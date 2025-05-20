@@ -1,0 +1,11 @@
+{
+  "sourceSystem": "SystemA",
+  "layoutKey": "DEMOGRAPHIC",
+  "version": "1.0",
+  "fields": [
+    { "name": "first_name", "start": 0, "length": 10 },
+    { "name": "last_name",  "start": 10, "length": 10 },
+    { "name": "address",    "start": 20, "length": 30 },
+    { "name": "phone",      "start": 50, "length": 10 }
+  ]
+}
